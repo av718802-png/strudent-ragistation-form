@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: rgb(176, 97, 6);
+    text-align: center;
+}
+
+h2{
+    color: blueviolet;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+}
+button{
+    text-align: center;
+}
+table{
+    text-align: center;
+    background-color: aqua;
+    border:color-mix(in srgb, color percentage, color percentage) ;
+}
+tr:hover{
+    background-color: aquamarine;
+}
+footer{
+    text-align: center;
+}
